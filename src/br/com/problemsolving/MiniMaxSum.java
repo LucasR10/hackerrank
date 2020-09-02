@@ -1,8 +1,6 @@
 package br.com.problemsolving;
 
-import java.math.BigInteger;
 import java.util.Arrays;
-import java.util.Collections;
 
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
